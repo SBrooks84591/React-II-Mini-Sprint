@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Stephanie\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js start
+
+PATH: 
+  C:\Users\Stephanie\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Stephanie\bin;C:\Program Files (x86)\iis express\PHP\v5.4;C:\Program Files (x86)\iis express\PHP\v5.5;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.7.0_79;C:\java\bin;C:\Program Files\Java\jdk1.8.0_45;C:\Program Files\Java\jdk1.8.0_45\bin\bin;C:\Program Files\Java\jdk1.8.0_45\bin;C:\MyJava;C:\app\Stephanie\product\11.2.0\dbhome_1;C:\app\Stephanie\product\11.2.0\dbhome_1\oc4j\j2ee\OC4J_DBConsole_localhost_orcl;C:\app\Stephanie\product\11.2.0\dbhome_1\oc4j\j2ee\OC4J_DBConsole_localhost_sample1;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit;http;\\127.0.0.1;8080\apex\f?p=4950;C:\app\Stephanie\product\11.2.0\dbhome_2;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files (x86)\QuickTime\QTSystem;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Bi;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn;C:\Program Files\Microsoft SQL Server\100\Tools\Binn;C:\Program Files\Microsoft SQL Server\100\DTS\Binn;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;C:\Program Files\Git\cmd;C:\Program Files (x86)\Brackets\command;C:\Program Files\nodejs;C:\Users\Stephanie\.dnx\bin;$PATH;C;C:\Program Files\Git\app\Stephanie\product\11.2.0\dbhome_2;C:\app\Stephanie\product\11.2.0\dbhome_1\oc4j\j2ee\OC4J_DBConsole_localhost_orcl;C:\app\Stephanie\product\11.2.0\dbhome_1\oc4j\j2ee\OC4J_DBConsole_localhost_sample1;C:\app\Stephanie\product\11.2.0\dbhome_2;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\Stephanie\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  9.9.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "C:\\Users\\Stephanie\\LambdaSchool\\React-II-Mini-Sprint"
+      at new MessageError (C:\Users\Stephanie\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at C:\Users\Stephanie\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Users\Stephanie\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\Stephanie\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
+      at <anonymous>
