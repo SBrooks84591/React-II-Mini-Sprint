@@ -20,7 +20,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
         
-          <h1 className="App-title">Hello React app</h1>
+          <h1 className="App-title">React Friends</h1>
           </header>
           <PeopleList people={this.state.People} />
 
